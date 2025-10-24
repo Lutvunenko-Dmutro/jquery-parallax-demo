@@ -30,7 +30,7 @@
 
 1.  Клонуйте репозиторій:
     ```bash
-    git clone [https://github.com/ВАШЕ_ІМЯ/НАЗВА_РЕПОЗИТОРІЮ.git](https://github.com/ВАШЕ_ІМЯ/НАЗВА_РЕПОЗИТОРІЮ.git)
+    git clone https://github.com/Lutvunenko-Dmutro/jquery-parallax-demo.git
     ```
 2.  Переконайтеся, що ваші фонові зображення (`image1.png` та `image2.png`) знаходяться у папці `images/`.
 3.  Відкрийте файл `index.html` у будь-якому веб-браузері.
